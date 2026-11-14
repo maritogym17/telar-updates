@@ -1,0 +1,17 @@
+# Secretos y datos locales: nunca a Git
+*.pem
+*.key
+private.*
+emitidas.jsonl
+ocultas.json
+panel.json
+secrets.bin.json
+secrets*.json
+*.db
+*.db-shm
+*.db-wal
+.env
+.env.*
+DATA/
+CLIENTS/
+BACKUPS/
